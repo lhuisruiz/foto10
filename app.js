@@ -93,7 +93,7 @@ Swal.fire({
         '<button class="bt-msj-3">Ingresar correo...</button></a>' +
         '</div>',
         
-/*
+
     html: '<div class="mensaje">' +
         '<h3 class="bm-4">Black Momets</h3>' +
         '<p class="bm-2-pp">Fotos Listas, Gracias por la confianza. </br><span class="olvides">¡ No te olvides Inglresar el correo en la app web !</span></p>' +
@@ -102,7 +102,7 @@ Swal.fire({
         '<a href="https://accounts.google.com/signoutoptions?continue=https%3A%2F%2Fdrive.google.com%2Fdrive%2Fu%2F0%2Fmobile%2F%3Futm_source%3Den%26pli%3D1">'+
         '<button class="bt-msj-3">Ingresar...</button></a>' +
         '</div>',
-*/
+
     //tamaño
     imageWidth: 300,
     imageHeight: 300,
